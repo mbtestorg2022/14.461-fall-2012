@@ -35,7 +35,7 @@ Chari, V. V., and Patrick J. Kehoe. "[Optimal Fiscal and Monetary Policy](http:/
 
 Werning, I. "[Optimal Fiscal Policy with Redistribution](http://dx.doi.org/10.1162/qjec.122.3.925)." _Quarterly Journal of Economics_ 122, no. 3 (1999): 925–67.
 
-Aiyagari, S. Rao. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Optimal Capital Income Taxation with Incomplete Markets, Borrowing Constraints, and Constant Discounting." (PDF)](http://www.google.com/url?q=http%3A%2F%2Flinks.jstor.org%2Fstable%2Fpdfplus%2F2138707.pdf&sa=D&sntz=1&usg=AFQjCNFx4cB2zK6RSqSgxFW3KQUkh9_MIw) _Journal of Political Economy_ 103, no. 6 (1995): 1158–75.
+Aiyagari, S. Rao. "[Optimal Capital Income Taxation with Incomplete Markets, Borrowing Constraints, and Constant Discounting." (PDF)](http://www.google.com/url?q=http%3A%2F%2Flinks.jstor.org%2Fstable%2Fpdfplus%2F2138707.pdf&sa=D&sntz=1&usg=AFQjCNFx4cB2zK6RSqSgxFW3KQUkh9_MIw) _Journal of Political Economy_ 103, no. 6 (1995): 1158–75.
 
 Aiyagari, S. Rao, Albert Marcet, et al. "[Optimal Taxation without State-Contingent Debt](http://ideas.repec.org/a/ucp/jpolec/v110y2002i6p1220-1254.html)." _Journal of Political Economy_ 110, no. 6 (2002): 1220–54.
 
@@ -77,7 +77,7 @@ Default and sovereign debt
 
 Conesa, Juan C., and Timothy J. Kehoe. "[Gambling for Redemption and Self-Fulfilling Debt Crisis](https://econpapers.repec.org/paper/fipfedmsr/465.htm)." Mimeo, Federal Reserve Bank of Minneapolis (2011).
 
-Arellano. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Default Risk and Income Fluctuations in Emerging Economies." (PDF)](http://www.cristinaarellano.com/riskdefault.pdf) Mimeo, Federal Reserve Bank of Minneapolis (2007).
+Arellano. "[Default Risk and Income Fluctuations in Emerging Economies." (PDF)](http://www.cristinaarellano.com/riskdefault.pdf) Mimeo, Federal Reserve Bank of Minneapolis (2007).
 
 Chamon, Marcos. "[Can Debt Crises be Self-Fulfilling?](http://ideas.repec.org/a/eee/deveco/v82y2007i1p234-244.html)" _Journal of Development Economics_ 82, no. 1 (2007): 234–44.
 
@@ -87,7 +87,7 @@ Calvo. "[Capital Flows and Capital-Market Crises: The Simple Economics of Sudden
 
 Ghosh, Kim, et al. "[Fiscal Fatigue, Fiscal Space and Debt Sustainability in Advanced Economies](http://www.nber.org/papers/w16782)." NBER Working Paper No. 16782, 2011.
 
-Hopenhyan, Hugo, and Ivan Werning. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Equilibrium Default." (PDF)](http://economics.mit.edu/files/2620) Mimeo, MIT (2008).
+Hopenhyan, Hugo, and Ivan Werning. "[Equilibrium Default." (PDF)](http://economics.mit.edu/files/2620) Mimeo, MIT (2008).
 
 
 {{< tdclose >}}
@@ -103,7 +103,7 @@ Monetary policy with nominal rigidities
 {{< tdopen >}}
 
 
-Woodford, M. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Optimal Monetary Stabilization Policy." (PDF)](http://www.columbia.edu/~mw2230/OMP_Hbook.pdf) In _Handbook of Monetary Economics, Volume 3B_. Edited by B. M. Friedman, and M. Woodford. North Holland, 2010. ISBN: 9780444534545.
+Woodford, M. "[Optimal Monetary Stabilization Policy." (PDF)](http://www.columbia.edu/~mw2230/OMP_Hbook.pdf) In _Handbook of Monetary Economics, Volume 3B_. Edited by B. M. Friedman, and M. Woodford. North Holland, 2010. ISBN: 9780444534545.
 
 Correia, I., J. P. Nicolini, et al. "[Optimal Fiscal and Monetary Policy: Equivalence Results](http://www.jstor.org/stable/10.1086/533504)." _Journal of Political Economy_ 116, no. 1 (2008): 141–70.
 
@@ -121,15 +121,15 @@ Liquidity traps
 {{< tdopen >}}
 
 
-Eggertsson, G. B., and M. Woodford. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Zero Bound on Interest Rates and Optimal Monetary Policy." (PDF)](https://www.princeton.edu/~pkrugman/debt_deleveraging_ge_pk.pdf) _Brookings Papers on Economic Activity_ (2003).
+Eggertsson, G. B., and M. Woodford. "[The Zero Bound on Interest Rates and Optimal Monetary Policy." (PDF)](https://www.princeton.edu/~pkrugman/debt_deleveraging_ge_pk.pdf) _Brookings Papers on Economic Activity_ (2003).
 
 Guerrieri, V., and G. Lorenzoni. "[Credit Crises, Precautionary Savings and the Liquidity Trap](http://www.nber.org/papers/w17583)." Mimeo, MIT (2011).
 
-Eggertsson, G. B., and Paul Krugman. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Debt, Deleveraging, and the Liquidity Trap." (PDF)](https://www.princeton.edu/~pkrugman/debt_deleveraging_ge_pk.pdf) _Quarterly Journal of Economics_ (2012).
+Eggertsson, G. B., and Paul Krugman. "[Debt, Deleveraging, and the Liquidity Trap." (PDF)](https://www.princeton.edu/~pkrugman/debt_deleveraging_ge_pk.pdf) _Quarterly Journal of Economics_ (2012).
 
 Werning, I. "[Managing Liquidity Trap: Monetary and Fiscal Policy](http://economics.mit.edu/files/7558)."  MIT (2012).
 
-Mian, Atif R., K. Rao, et al. "[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Household Balance Sheets, Consumption, and the Economic Slump](https://pdfs.semanticscholar.org/75a5/00894c5ffa5f9203a7e223e3a61f9eb7aa29.pdf)[." (PDF)](http://www.google.com/url?sa=t&rct=j&q=household%20balance%20sheets%2C%20consumption%2C%20and%20the%20economic%20slump&source=web&cd=1&ved=0CCIQFjAA&url=http%3A%2F%2Fwww.aeaweb.org%2Faea%2F2012conference%2Fprogram%2Fretrieve.php%3Fpdfid%3D136&ei=VUBHUMfvDOPz0gGe9YHQAw&usg=AFQjCNHoeAcln1d00V00d16K3f9N2k9rWw&sig2=fdLzFoyuhYDM6hD6XEpcwA) Booth (2011).
+Mian, Atif R., K. Rao, et al. "[Household Balance Sheets, Consumption, and the Economic Slump](https://pdfs.semanticscholar.org/75a5/00894c5ffa5f9203a7e223e3a61f9eb7aa29.pdf)[." (PDF)](http://www.google.com/url?sa=t&rct=j&q=household%20balance%20sheets%2C%20consumption%2C%20and%20the%20economic%20slump&source=web&cd=1&ved=0CCIQFjAA&url=http%3A%2F%2Fwww.aeaweb.org%2Faea%2F2012conference%2Fprogram%2Fretrieve.php%3Fpdfid%3D136&ei=VUBHUMfvDOPz0gGe9YHQAw&usg=AFQjCNHoeAcln1d00V00d16K3f9N2k9rWw&sig2=fdLzFoyuhYDM6hD6XEpcwA) Booth (2011).
 
 Hall, R. "[The Long Slump](http://www.nber.org/papers/w16741)." _American Economic Review_ 101 (2011): 431–69. (2011 AEA Presidential Address)
 
@@ -147,9 +147,9 @@ Fiscal policy II: Government spending
 {{< tdopen >}}
 
 
-Woodford, M. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Simple Analytics of the Government Expenditure Multiplier." (PDF)](http://www.columbia.edu/~mw2230/G_ASSA.pdf) AEJ Macro, forthcoming (2010).
+Woodford, M. "[Simple Analytics of the Government Expenditure Multiplier." (PDF)](http://www.columbia.edu/~mw2230/G_ASSA.pdf) AEJ Macro, forthcoming (2010).
 
-Nakamura, E., and J. Steinsson. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fiscal Stimulus in a Monetary Union: Evidence from U.S. Regions." (PDF)](https://www.nber.org/papers/w17391) Mimeo, Columbia University.
+Nakamura, E., and J. Steinsson. "[Fiscal Stimulus in a Monetary Union: Evidence from U.S. Regions." (PDF)](https://www.nber.org/papers/w17391) Mimeo, Columbia University.
 
 Farhi, E., and I. Werning. "Fiscal Multipliers." Mimeo, MIT.
 
@@ -193,7 +193,7 @@ Kiyotaki, N., and J. Moore. "[Credit Cycles](http://www.jstor.org/sici?sici=0022
 
 Brunnermeier, M., and Y. Sannikov. "[A Macroeconomic Model with a Financial Sector](http://scholar.princeton.edu/markus/publications/macroeconomic-model-financial-sector)." Mimeo, Princeton (2012).
 
-Adrian, T., P. Colla, and Hyun Song Shin. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Which Financial Frictions? Parsing the Evidence from the Financial Crisis of 2007–9." (PDF)](https://www.nber.org/papers/w18335) Mimeo (2012).
+Adrian, T., P. Colla, and Hyun Song Shin. "[Which Financial Frictions? Parsing the Evidence from the Financial Crisis of 2007–9." (PDF)](https://www.nber.org/papers/w18335) Mimeo (2012).
 
 Adrian, T, and Nina Boyarchenko. "[Intermediary Leverage Cycles and Financial Stability](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133385)." Mimeo (2012).
 
@@ -211,9 +211,9 @@ Inefficient insurance
 {{< tdopen >}}
 
 
-Lorenzoni, G. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Inefficient Credit Booms." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.702.1213&rep=rep1&type=pdf) _Review of Economic Studies_ 75, no. 3 (2008): 809–33.
+Lorenzoni, G. "[Inefficient Credit Booms." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.702.1213&rep=rep1&type=pdf) _Review of Economic Studies_ 75, no. 3 (2008): 809–33.
 
-Korinek, A., and O. Jeanne. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Managing Credit Booms and Busts: A Pigouvian Taxation Approach." (PDF)](https://www.imf.org/external/np/res/seminars/2010/risk/pdf/durdu.pdf) Mimeo, University of Maryland (2010).
+Korinek, A., and O. Jeanne. "[Managing Credit Booms and Busts: A Pigouvian Taxation Approach." (PDF)](https://www.imf.org/external/np/res/seminars/2010/risk/pdf/durdu.pdf) Mimeo, University of Maryland (2010).
 
 Jeske, K. "[Private International Debt with Risk of Repudiation](http://www.jstor.org/stable/10.1086/503755)." _Journal of Political Economy_ 114, no. 3 (2006): 576–93.
 
@@ -235,9 +235,9 @@ Employment and unemployment dynamics with wage rigidity
 {{< tdopen >}}
 
 
-Shimer, R. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Wage Rigidities and Jobless Recoveries." (PDF)](https://50a2c18b-a-62cb3a1a-s-sites.googlegroups.com/site/robertshimer/rigid-jobless.pdf?attachauth=ANoY7coDdVRWfw0EObt-O9o8dd8WIBWaW3kz6l1u_alg8veG_Cb-i-Ho2dy9dWlX_-w63G2mitzeU2lhGTlqHIHJMdPHJLiR9APkSIX61EqW_EJSY9U5-5kUGCKZHLwVr-zrUnnLXYNszXuSIYp7wBA_o6v4ZbxXX9gXRyEPoUa3y2GDVAaxC6QMy6ta2j-sjE43PSJD1BKD-otAGaXbKIPIZCRoN5pYzA%3D%3D&attredirects=0) Mimeo, University of Chicago (2012).
+Shimer, R. "[Wage Rigidities and Jobless Recoveries." (PDF)](https://50a2c18b-a-62cb3a1a-s-sites.googlegroups.com/site/robertshimer/rigid-jobless.pdf?attachauth=ANoY7coDdVRWfw0EObt-O9o8dd8WIBWaW3kz6l1u_alg8veG_Cb-i-Ho2dy9dWlX_-w63G2mitzeU2lhGTlqHIHJMdPHJLiR9APkSIX61EqW_EJSY9U5-5kUGCKZHLwVr-zrUnnLXYNszXuSIYp7wBA_o6v4ZbxXX9gXRyEPoUa3y2GDVAaxC6QMy6ta2j-sjE43PSJD1BKD-otAGaXbKIPIZCRoN5pYzA%3D%3D&attredirects=0) Mimeo, University of Chicago (2012).
 
-Hall, R. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Employment Fluctuations with Equilibrium Wage Stickiness." (PDF)](http://www.stanford.edu/~rehall/EmpFlucAERMarch2005.pdf) _American Economic Review_ 95, no. 1 (2005): 50–65.
+Hall, R. "[Employment Fluctuations with Equilibrium Wage Stickiness." (PDF)](http://www.stanford.edu/~rehall/EmpFlucAERMarch2005.pdf) _American Economic Review_ 95, no. 1 (2005): 50–65.
 
 Alvarez, F., and R. Shimer. "[Search and Rest Unemployment](http://dx.doi.org/10.3982/ECTA7686)." _Econometrica_ 79, no. 1 (2011): 75–122.
 
@@ -369,7 +369,7 @@ Angeletos, G. M., and A. Pavan. "[Policy with Dispersed Information](http://dx.d
 
 Angeletos, George-Marios, Luigi Iovino, et al. "[Cycles, Gaps, and the Social Value of Information](http://ideas.repec.org/p/nbr/nberwo/17229.html)." Mimeo, MIT/Chicago Booth (2011).
 
-Bacchetta, Philippe, and Eric van Wincoop. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Can Information Heterogeneity Explain the Exchange Rate Determination Puzzle?" (PDF)](http://www.hec.unil.ch/pbacchetta/Printed%20papers/aer06.pdf) _American Economic Review_ 96, no. 3 (2006): 552–76.
+Bacchetta, Philippe, and Eric van Wincoop. "[Can Information Heterogeneity Explain the Exchange Rate Determination Puzzle?" (PDF)](http://www.hec.unil.ch/pbacchetta/Printed%20papers/aer06.pdf) _American Economic Review_ 96, no. 3 (2006): 552–76.
 
 Barlevy, G., and P. Veronesi. "[Rational Panics and Stock Market Crashes](http://dx.doi.org/10.1016/S0022-0531(03)00039-5)" _Journal of Economic Theory_ 110, no. 2 (2003): 234–63.
 
@@ -385,7 +385,7 @@ Kyle, Albert. "[Informed Speculation with Imperfect Competition](http://dx.doi.o
 
 Morris, Stephen, and Hyun Song Shin. "[Central Bank Transparency and the Signal Value of Prices](http://econpapers.repec.org/article/binbpeajo/v_3a36_3ay_3a2005_3ai_3a2005-2_3ap_3a1-66.htm)." _Brookings Papers on Economic Activity_ 36, no. 2 (2005): 1–66.
 
-Rondina, Giacomo, and Todd Walker. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Information Equilibria in Dynamic Environments." (PDF)](http://www.aeaweb.org/aea/2012conference/program/retrieve.php?pdfid=402) Mimeo, UCSD/Indiana (2011).
+Rondina, Giacomo, and Todd Walker. "[Information Equilibria in Dynamic Environments." (PDF)](http://www.aeaweb.org/aea/2012conference/program/retrieve.php?pdfid=402) Mimeo, UCSD/Indiana (2011).
 
 Townsend, Robert. "[Forecasting the Forecasts of Others](http://www.jstor.org/stable/1831068)." _Journal of Political Economy_ 91, no. 4 (1983): 546–88.
 
@@ -441,7 +441,7 @@ Informational frictions and monetary policy
 {{< tdopen >}}
 
 
-Angeletos, George-Marios, and Jennifer La'O. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Optimal Monetary Policy with Informational Frictions." (PDF)](http://research.stlouisfed.org/conferences/macromodels/Jennifer_Lao.pdf) Mimeo, MIT/Chicago Booth (2012).
+Angeletos, George-Marios, and Jennifer La'O. "[Optimal Monetary Policy with Informational Frictions." (PDF)](http://research.stlouisfed.org/conferences/macromodels/Jennifer_Lao.pdf) Mimeo, MIT/Chicago Booth (2012).
 
 Coibion, Olivier, and Yuriy Gorodnichenko. "[What can Survey Forecasts Tell us About Informational Rigidities?](http://www.jstor.org/stable/full/10.1086/665662)"_Journal of Political Economy_ 120, no. 1 (2012): 116–59 .
 
@@ -481,7 +481,7 @@ Reis, Ricardo. "[Inattentive Producers](http://www.nber.org/papers/w11820)." _Re
 
 Sims, Christopher. "Rational Inattention and Monetary Economics." In _Handbook of Monetary Economics, Volume 3B_. North Holland, 2010. ISBN: 9780444534545.
 
-Stevens, Luminita. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Price Adjustment in a Model with Multiple-Price Policies." (PDF)](https://pdfs.semanticscholar.org/f910/afebc922e0c5650b96bf9d3011ab5ebf323b.pdf) Mimeo, Columbia University (2012).
+Stevens, Luminita. "[Price Adjustment in a Model with Multiple-Price Policies." (PDF)](https://pdfs.semanticscholar.org/f910/afebc922e0c5650b96bf9d3011ab5ebf323b.pdf) Mimeo, Columbia University (2012).
 
 
 {{< tdclose >}}

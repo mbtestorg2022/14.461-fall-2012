@@ -14,7 +14,7 @@ Recitations: 1 session / week, 1.5 hours / session
 Prerequisites
 -------------
 
-The prerequisites for this course are [_14.122 Microeconomic Theory II_](/courses/14-122-microeconomic-theory-ii-fall-2002/) and _14.452 Economic Growth_.
+The prerequisites for this course are [_14.122 Microeconomic Theory II_](/courses/14-122-microeconomic-theory-ii-fall-2002) and _14.452 Economic Growth_.
 
 Description
 -----------
